@@ -1,0 +1,1 @@
+En este documento econtrarás los resultados de los cálculos del resonador de Helmholtz

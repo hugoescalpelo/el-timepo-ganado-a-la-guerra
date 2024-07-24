@@ -9,7 +9,7 @@ def calcular_area_negra(imagen_path, ancho_cm, largo_cm):
         raise ValueError("No se pudo cargar la imagen. Verifique la ruta y el formato.")
 
     # Aplicar umbral para segmentar las áreas negras
-    _, imagen_binaria = cv2.threshold(imagen, 127, 255, cv2.THRESH_BINARY_INV)
+    _, imagen_binaria = cv2.threshold(imagen, 127, 255, cv2.THRESH_BINARY)
 
     # Contar los píxeles negros
     pixeles_negros = np.sum(imagen_binaria == 0)
@@ -24,9 +24,9 @@ def calcular_area_negra(imagen_path, ancho_cm, largo_cm):
     return area_cm2
 
 # Ejemplo de uso
-ruta_imagen = 'C:\Users\hugoe\Documents\GitHub\el-timepo-ganado-a-la-guerra\PNG\carta-13-inferior.png'  # Cambia esto por la ruta real de tu imagen
-ancho_cm = 10  # Ancho del rectángulo en cm
-largo_cm = 5   # Largo del rectángulo en cm
+ruta_imagen = r'C:\\Users\\hugoe\\Documents\\GitHub\\el-timepo-ganado-a-la-guerra\\PNG\\carta-22-superior.png'  # Cambia esto por la ruta real de tu imagen
+ancho_cm = 25  # Ancho del rectángulo en cm
+largo_cm = 90   # Largo del rectángulo en cm
 
 area = calcular_area_negra(ruta_imagen, ancho_cm, largo_cm)
 print(f"El área de la zona negra es: {area:.2f} cm²")
