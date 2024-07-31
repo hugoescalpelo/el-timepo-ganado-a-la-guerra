@@ -19,12 +19,12 @@ Cajón dos (carta 22)
 
 - Inferior: 
 25cm x 25cm de base
-32cm de altura
-92cm
+92cm de altura
+
 
 ----------------------------------------
 
 ![](https://github.com/hugoescalpelo/el-timepo-ganado-a-la-guerra/blob/main/Documentos/image.png?raw=true)
 
 ## Nota
-Las alturas de todos los resonadores es de 220cm
+Las alturas de todos los resonadores es de 225cm
