@@ -2,48 +2,57 @@
 
 ## Carta 13, cajón 1
 
-### Cajón superior: 190.94 hz
-- Base externa: 25cm
-- Base interna: 22.46cm
-- Profundidad externa: 25cm
-- Profundidad Interna: 22.46cm
-- Altura externa: 32cm
-- Altura interna: 29.46cm
-- Volumen: 0.01486m³
-- Area de apertura: 24.43 cm²
-- Cuello: 1.3516cm
+### Cajón superior: 498.02 hz
 
-### Cajón inferior: 498.02 hz
+Para optimizar la fabricación, se dejado como variable la profundidad del cajon, mientras que el cuello de la columna de aire se ha ajustado al grosor de la madera, 1.8cm.
+
 - Base externa: 25cm
-- Base interna: 22.46cm
+- Base interna: 21.40cm
 - Profundidad externa: 25cm
-- Profundidad Interna: 22.46cm
+- **Profundidad Interna: 2.699cm**
+- Altura externa: 32cm
+- Altura interna: 28.4cm
+- Volumen: 0.0016403m³
+- Area de apertura: 24.43 cm²
+- Cuello: 1.8cm
+
+### Cajón inferior: 190.94 hz
+
+En este cajón, la profundidad del cajon era de 29cm para una columna de 1.8cm, por lo que se dejó la profundidad máxima del cajon haciendo el ajuste en el largo de la columna de aire.
+
+- Base externa: 25cm
+- Base interna: 21.40cm
+- Profundidad externa: 25cm
+- Profundidad Interna: 21.40cm
 - Altura externa: 114cm
 - Altura interna: 111.46cm
-- Volumen: 0.05623m³
+- Volumen: 0.05056m³
 - Area de apertura: 155.25 cm²
-- Cuello: 0.3337cm
+- **Cuello: 2.5246cm**
 
 ## Carta 22, cajón 2
 
-### Cajón superior: 339.53 hz
-- Base externa: 25cm
-- Base interna: 22.46cm
-- Profundidad externa: 25cm
-- Profundidad Interna: 22.46cm
-- Altura externa: 90cm
-- Altura interna: 87.46cm
-- Volumen: 0.04412m³
-- Area de apertura: 131.96 cm²
-- Cuello: 0.7777cm
+### Cajón superior: 275.34 hz
 
-### Cajón inferior: 346.26 hz
+Para este cajón, la profundidad maxima generaba una columna de aire menor al grosor de la madera seleccionada, por lo que se dejó el largo de la columna de aire fijo y se calcula la profundidad del cajón.
+
 - Base externa: 25cm
-- Base interna: 22.46cm
+- Base interna: 21.40cm
 - Profundidad externa: 25cm
-- Profundidad Interna: 22.46cm
+- **Profundidad Interna: 15.677cm**
+- Altura externa: 90cm
+- Altura interna: 86.4cm
+- Volumen: 0.028986m³
+- Area de apertura: 131.96 cm²
+- Cuello: 1.8cm
+
+### Cajón inferior: 268.21 hz
+- Base externa: 25cm
+- Base interna: 21.40cm
+- Profundidad externa: 25cm
+- **Profundidad Interna: 13.617cm**
 - Altura externa: 92cm
-- Altura interna: 89.46cm
-- Volumen: 0.04513m³
+- Altura interna: 88.4cm
+- Volumen: 0.02576m³
 - Area de apertura: 111.28 cm²
-- Cuello: 0.6165cm
+- Cuello: 1.8cm

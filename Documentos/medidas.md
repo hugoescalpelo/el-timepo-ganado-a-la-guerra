@@ -27,4 +27,5 @@ Cajón dos (carta 22)
 ![](https://github.com/hugoescalpelo/el-timepo-ganado-a-la-guerra/blob/main/Documentos/image.png?raw=true)
 
 ## Nota
-Las alturas de todos los resonadores es de 225cm
+- Las alturas de todos los resonadores es de 225cm
+- El grosor de la madera es de 1.8cm
