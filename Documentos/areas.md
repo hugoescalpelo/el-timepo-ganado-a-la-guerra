@@ -13,3 +13,9 @@ En este documento encontrarás los resultados de los cálculos de las areas.
 
 ## carta-22-inferior.png
 111.28 cm²
+
+## carta-22-superior-ajustado.png
+111.96 cm²
+
+## Carta-22-inferior-ajustado.png
+103.79 cm²

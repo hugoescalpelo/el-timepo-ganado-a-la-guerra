@@ -1,1 +1,1 @@
-En este documento econtrarás los resultados de los cálculos del resonador de Helmholtz
+En este documento econtrarás los resultados de los cálculos del resonador de Helmholtz. Se hace con ayuda de la siguiente calculadora Online: https://www.omnicalculator.com/physics/helmholtz-resonator

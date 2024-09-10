@@ -24,7 +24,7 @@ def calcular_area_negra(imagen_path, ancho_cm, largo_cm):
     return area_cm2
 
 # Ejemplo de uso
-ruta_imagen = r'C:\\Users\\hugoe\\Documents\\GitHub\\el-timepo-ganado-a-la-guerra\\PNG\\carta-22-superior.png'  # Cambia esto por la ruta real de tu imagen
+ruta_imagen = r'C:\\Users\\hugoe\\Documents\\GitHub\\el-timepo-ganado-a-la-guerra\\PNG\\carta-22-superior-ajustado.png'  # Cambia esto por la ruta real de tu imagen
 ancho_cm = 25  # Ancho del rectángulo en cm
 largo_cm = 90   # Largo del rectángulo en cm
 
